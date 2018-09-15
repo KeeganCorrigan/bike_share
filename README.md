@@ -40,7 +40,7 @@ $ rspec
 
 * To view production version, visit:
 ```
-https://polar-gorge-61101.herokuapp.com/
+https://bike-share-kc.herokuapp.com/
 ```
 
 #### Possible additions:
